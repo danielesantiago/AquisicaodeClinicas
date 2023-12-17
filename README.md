@@ -16,7 +16,7 @@ A modelagem de dados foi construída para agregar informações críticas desde 
 Para um monitoramento eficaz e insights em tempo real, foi desenvolvido um dashboard operacional:
 
 1. O design interativo do dashboard está disponível no [Figma](https://www.figma.com/file/NQAGW8jWQ45FG7f5J5J0cF/Cl%C3%ADnicas-Dashboard?type=design&node-id=1%3A168&mode=design&t=cB1kXhKn0QnH3tio-1).
-2. Uma versão em PDF do dashboard com a explicação de cada KPI, ideal para apresentações executivas, está acessível como [Aquisição de Clínicas.pdf"](https://github.com/danielesantiago/AquisicaodeClinicas/blob/master/Aquisi%C3%A7%C3%A3o%20de%20Cl%C3%ADnicas.pdf).
+2. Uma versão em PDF do dashboard com a explicação de cada KPI, ideal para apresentações executivas, está acessível como [Aquisição de Clínicas.pdf](https://github.com/danielesantiago/AquisicaodeClinicas/blob/master/Aquisi%C3%A7%C3%A3o%20de%20Cl%C3%ADnicas.pdf).
 
 ![image](https://raw.githubusercontent.com/danielesantiago/AquisicaodeClinicas/master/Arquivos/desktop.png)
 
